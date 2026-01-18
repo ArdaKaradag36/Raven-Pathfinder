@@ -1,0 +1,16 @@
+# Sanal Ortam
+venv/
+.venv/
+env/
+
+# Python Önbelleği
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code Ayarları
+.vscode/
+
+# Veri ve Loglar
+*.log
+data/processed/
